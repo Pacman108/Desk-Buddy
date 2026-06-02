@@ -8,6 +8,11 @@ Desk Buddy is an embedded systems project designed to sit on a desk and display 
 
 The project was prototyped in Wokwi using an ESP32, an ILI9341 TFT display, and a push button for switching between screens.
 
+
+## Demo
+![ESP-32 Desk Buddy](media/Desk_buddy1.png)
+![ESP-32 Desk Buddy](media/Desk_buddy1.png)
+
 ## Features
 
 - Displays weather data for multiple cities
