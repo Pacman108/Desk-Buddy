@@ -14,6 +14,8 @@ The project was prototyped in Wokwi using an ESP32, an ILI9341 TFT display, and 
 ![ESP-32 Desk Buddy](media/Desk_buddy2.png)
 ![ESP-32 Desk Buddy](media/Desk_buddy3.png)
 
+
+!!CAUTION: THE API THAT I USED FOR STOCKS HAS NOW GONE DEFUNCT, YOU SIMPLY HAVE TO REPLACE THE API-KEY, THE OVERALL STRUCTURE REMAINS SAME
 ## Features
 
 - Displays weather data for multiple cities
