@@ -11,7 +11,8 @@ The project was prototyped in Wokwi using an ESP32, an ILI9341 TFT display, and 
 
 ## Demo
 ![ESP-32 Desk Buddy](media/Desk_buddy1.png)
-![ESP-32 Desk Buddy](media/Desk_buddy1.png)
+![ESP-32 Desk Buddy](media/Desk_buddy2.png)
+![ESP-32 Desk Buddy](media/Desk_buddy3.png)
 
 ## Features
 
